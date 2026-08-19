@@ -339,7 +339,7 @@ Found a disease it misreads? A translation that reads awkwardly to a native spea
 ### 🌾
 
 **Built so that the people who feed us don't have to guess.**
-
+**Made by Aarav, Subham and Vansh**
 <sub>Estimates are for planning, not guarantees. For serious crop disease, confirm with your local <b>KVK</b> or agricultural extension officer.</sub>
 
 </div>
